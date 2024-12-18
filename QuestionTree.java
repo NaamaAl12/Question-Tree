@@ -1,6 +1,3 @@
-// Naama Al-Musawi, CS 145
-// Assignment: QuestionTree Project - (QuestionTree class)
-
 import java.io.*;
 import java.util.*;
 
