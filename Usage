@@ -1,0 +1,18 @@
+1. Start the game and answer yes/no questions to help the program guess your object.
+
+2. If the guess is wrong, provide the correct object and a question to distinguish it from the program's guess.
+
+3. Save and load the tree for future games.
+
+Example Console Interaction:
+Welcome to the game of 20 Questions!
+
+Think of an object, and I will guess it in N tries.
+Is it an animal? (yes/no): yes
+Does it live underwater? (yes/no): no
+Would your object happen to be a Jedi? (yes/no): no
+I lose. What is your object? Dog
+Type a yes/no question to distinguish your item from Jedi: Does it bark?
+And what is the answer for your object? yes
+
+Would you like to play again? (yes/no): no
