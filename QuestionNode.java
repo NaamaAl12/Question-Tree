@@ -1,6 +1,3 @@
-// Naama Al-Musawi, CS 145
-// Assignment: QuestionTree Project - (QuestionNode class)
-
 public class QuestionNode {
     public String data;  // The question or answer stored in this node
     public QuestionNode yes;  // The child node for a 'yes' response
